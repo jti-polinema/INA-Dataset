@@ -1,2 +1,2 @@
 # INA-Dataset
-Indonesia News Article Dataset
+Indonesian News Articles Dataset
